@@ -1,0 +1,6 @@
+Time : Tue Mar  4 21:07:02 IST 2025
+USER DETAILS : tadadi25:x:1000:1000:,,,:/home/tadadi25:/bin/bash
+REPO : /home/tadadi25/FinelProj/Work_Course_Linux
+BRANCH : 1_question
+VERSIONID : "24.04"
+--------------------------------
