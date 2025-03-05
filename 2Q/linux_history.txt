@@ -1,0 +1,34 @@
+    1  history
+    2  git checkout main
+    3  cd Work_Course_Linux/
+    4  git checkout main
+    5  git checkout -b 2_question
+    6  git branch
+    7  בג
+    8  cd
+    9  git branch
+   10  cd FinelProj/
+   11  git branch
+   12  mkdir Q2_ENV
+   13  cd Q2_ENV/
+   14  python3 -m venv ENV_FOR_Q2
+   15  source ENV_FOR_Q2/bin/activate
+   16  pip install numpy
+   17  pip show numpy
+   18  cd ~/FinelProj/Work_Course_Linux
+   19  git checkout 2_question
+   20  mkdir 2Q
+   21  cp CODE/py1.py 2Q/
+   22  ls -l 2Q/py1.py
+   23  chmod u+rwx 2Q/py1.py
+   24  ls -l 2Q/py1.py
+   25  python3 2Q/py1.py > 2Q/output_2q.txt
+   26  cd 2Q
+   27  pip freeze > requirements.txt
+   28  cat requirements.txt
+   29  pip install -r requirements.txt
+   30  echo "==== Second Run ====" >> 2Q/output_2q.txt
+   31  python3 2Q/py1.py >> 2Q/output_2q.txt
+   32  echo "==== Second Run ====" >> output_2q.txt
+   33  python3 py1.py >> output_2q.txt
+   34  history > linux_history.txt
