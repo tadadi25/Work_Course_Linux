@@ -1,0 +1,39 @@
+Wed Mar  5 22:31:55 IST 2025 - Starting the process...
+Wed Mar  5 22:31:55 IST 2025 - Virtual environment already exists, activating...
+Wed Mar  5 22:31:55 IST 2025 - Processing plant: Phalaenopsis
+Wed Mar  5 22:31:55 IST 2025 - ERROR: Python script failed for Phalaenopsis
+Wed Mar  5 22:31:55 IST 2025 - Processing plant: Cattleya
+Wed Mar  5 22:31:55 IST 2025 - ERROR: Python script failed for Cattleya
+Wed Mar  5 22:31:55 IST 2025 - Processing plant: Dendrobium
+Wed Mar  5 22:31:55 IST 2025 - ERROR: Python script failed for Dendrobium
+Wed Mar  5 22:31:55 IST 2025 - Processing plant: Vanda
+Wed Mar  5 22:31:55 IST 2025 - ERROR: Python script failed for Vanda
+Wed Mar  5 22:31:55 IST 2025 - Processing plant: Oncidium
+Wed Mar  5 22:31:55 IST 2025 - ERROR: Python script failed for Oncidium
+Wed Mar  5 22:31:55 IST 2025 - Process completed.
+Wed Mar  5 22:36:48 IST 2025 - Starting the process...
+Wed Mar  5 22:36:48 IST 2025 - Virtual environment already exists, activating...
+Wed Mar  5 22:36:48 IST 2025 - Processing plant: Phalaenopsis
+Wed Mar  5 22:36:48 IST 2025 - ERROR: Python script failed for Phalaenopsis
+Wed Mar  5 22:36:48 IST 2025 - Processing plant: Cattleya
+Wed Mar  5 22:36:48 IST 2025 - ERROR: Python script failed for Cattleya
+Wed Mar  5 22:36:48 IST 2025 - Processing plant: Dendrobium
+Wed Mar  5 22:36:48 IST 2025 - ERROR: Python script failed for Dendrobium
+Wed Mar  5 22:36:48 IST 2025 - Processing plant: Vanda
+Wed Mar  5 22:36:48 IST 2025 - ERROR: Python script failed for Vanda
+Wed Mar  5 22:36:48 IST 2025 - Processing plant: Oncidium
+Wed Mar  5 22:36:48 IST 2025 - ERROR: Python script failed for Oncidium
+Wed Mar  5 22:36:48 IST 2025 - Process completed.
+Wed Mar  5 22:41:39 IST 2025 - Starting the process...
+Wed Mar  5 22:41:39 IST 2025 - Virtual environment already exists, activating...
+Wed Mar  5 22:41:39 IST 2025 - Processing plant: Phalaenopsis
+Wed Mar  5 22:41:40 IST 2025 - Python script executed successfully for Phalaenopsis
+Wed Mar  5 22:41:40 IST 2025 - Processing plant: Cattleya
+Wed Mar  5 22:41:40 IST 2025 - Python script executed successfully for Cattleya
+Wed Mar  5 22:41:40 IST 2025 - Processing plant: Dendrobium
+Wed Mar  5 22:41:41 IST 2025 - Python script executed successfully for Dendrobium
+Wed Mar  5 22:41:41 IST 2025 - Processing plant: Vanda
+Wed Mar  5 22:41:42 IST 2025 - Python script executed successfully for Vanda
+Wed Mar  5 22:41:42 IST 2025 - Processing plant: Oncidium
+Wed Mar  5 22:41:43 IST 2025 - Python script executed successfully for Oncidium
+Wed Mar  5 22:41:43 IST 2025 - Process completed.
