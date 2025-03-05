@@ -1,0 +1,4 @@
+bug_id,created_at,report_date,branch,developer_name,priority_level,bug_description
+234,2025-03-05 16:21:43,2023-03-05,br_1,g.cohen,3,File name should contain date in header
+235,2025-03-05 16:21:43,2023-03-06,br_2,s.levi,2,Improve performance of module A
+236,2025-03-05 16:21:43,2023-03-07,br_3,d.klein,1,Fix UI bug in the login page
