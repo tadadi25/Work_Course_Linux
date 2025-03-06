@@ -1,0 +1,20 @@
+
+1. Group by Species and Calculate Mean Weight
+"Species" "Mean_Weight"
+"OT" 25.5
+"PF" 7.5
+NA 140.666666666667
+2. Total Weight by Species
+"Species" "Total_Weight"
+"OT" 102
+"PF" 15
+NA 422
+5. Count the Number of Records per Species
+"Species" "Count"
+"OT" 4
+"PF" 2
+NA 3
+6. Count Males and Females
+"Sex" "Count"
+"F" 4
+"M" 5
