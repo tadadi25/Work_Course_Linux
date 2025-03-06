@@ -2,7 +2,7 @@
 
 # Default CSV file creation
 CSV_FILE="origin_csv.csv"
-LOG_FILE="txt.output_5"  # Log file to store all the outputs
+LOG_FILE="output_5.txt"  # Log file to store all the outputs
 
 # Create the CSV file with data
 create_csv() {

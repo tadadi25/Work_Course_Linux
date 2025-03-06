@@ -1,0 +1,24 @@
+    1  deactive
+    2  deactivate
+    3  cd ..
+    4  mkdir 3Q
+    5  cd Q3
+    6  cd 3Q
+    7  python3 -m venv ENV_FOR_Q2
+    8  source ENV_FOR_Q2/bin/activate
+    9  deactivate
+   10  source ENV_FOR_Q3/bin/activate
+   11  deactivate
+   12  python3 -m venv ENV_FOR_Q3
+   13  source ENV_FOR_Q3/bin/activate
+   14  mv Q3/* .
+   15  mv 3Q/* .
+   16  pip install sqlite3 csv
+   17  python3 create_db_and_files.py
+   18  git add bugs.db commit.sh bug_reports.csv
+   19  git commit -m "Added bugs.db, commit.sh, and bug_reports.csv with bug data"
+   20  git push origin main
+   21  cd ..
+   22  git log Q3 --oneline > 3Q/txt.commits
+   23  git log --all --oneline > 3Q/txt.commits
+   24  history > ~/FinelProj/Work_Course_Linux/3Q/terminal_history.txt

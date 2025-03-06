@@ -1,0 +1,45 @@
+Please choose an option:
+1. CREATE CSV by name
+2. Display all CSV DATA with row INDEX
+3. Read user input for new row
+4. Read Specie (OT for example) And Display all Items of that specie type and the AVG weight of that type
+5. Read Specie sex (M/F) and display all items of specie-sex
+6. Save last output to new csv file
+7. Delete row by row index
+8. Update weight by row index
+9. Exit
+Displaying CSV Data with Index:
+Please choose an option:
+1. CREATE CSV by name
+2. Display all CSV DATA with row INDEX
+3. Read user input for new row
+4. Read Specie (OT for example) And Display all Items of that specie type and the AVG weight of that type
+5. Read Specie sex (M/F) and display all items of specie-sex
+6. Save last output to new csv file
+7. Delete row by row index
+8. Update weight by row index
+9. Exit
+CSV created with name origin_csv.csv
+CSV renamed to New_name_plants.csv
+Please choose an option:
+1. CREATE CSV by name
+2. Display all CSV DATA with row INDEX
+3. Read user input for new row
+4. Read Specie (OT for example) And Display all Items of that specie type and the AVG weight of that type
+5. Read Specie sex (M/F) and display all items of specie-sex
+6. Save last output to new csv file
+7. Delete row by row index
+8. Update weight by row index
+9. Exit
+Row 8 deleted.
+Please choose an option:
+1. CREATE CSV by name
+2. Display all CSV DATA with row INDEX
+3. Read user input for new row
+4. Read Specie (OT for example) And Display all Items of that specie type and the AVG weight of that type
+5. Read Specie sex (M/F) and display all items of specie-sex
+6. Save last output to new csv file
+7. Delete row by row index
+8. Update weight by row index
+9. Exit
+Exiting...
