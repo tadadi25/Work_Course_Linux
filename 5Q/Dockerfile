@@ -12,5 +12,5 @@ WORKDIR /app
 COPY . /app
 RUN R -e "install.packages('dplyr')"
 RUN R -e "install.packages('ggplot2')"
-CMD ["Rscript", "process_plants.R", "/app/orchids_data.csv"]
+CMD ["Rscript", "process_plants.R", "/app/New_name_plants.csv"]
 
