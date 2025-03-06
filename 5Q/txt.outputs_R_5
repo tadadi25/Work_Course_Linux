@@ -4,17 +4,21 @@
 "OT" 25.5
 "PF" 7.5
 NA 140.666666666667
-2. Total Weight by Species
-"Species" "Total_Weight"
-"OT" 102
-"PF" 15
-NA 422
+3. Sorted Data by Weight
+"Date.collected" "Species" "Sex" "Weight"
+"1/8" "PF" "M" 7
+"3/11" "PF" "M" 8
+"4/8" NA "F" 8
+"2/19" "OT" "F" 23
+"2/18" "OT" "M" 24
+"3/11" "OT" "M" 26
+"6/9" "OT" "F" 29
+"5/18" NA "F" 182
+"3/11" NA "M" 232
 5. Count the Number of Records per Species
 "Species" "Count"
 "OT" 4
 "PF" 2
 NA 3
-6. Count Males and Females
-"Sex" "Count"
-"F" 4
-"M" 5
+7. Filtered Data for Species: 6
+"Date.collected" "Species" "Sex" "Weight"
