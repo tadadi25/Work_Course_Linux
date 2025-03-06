@@ -4,6 +4,11 @@
 "OT" 25.5
 "PF" 7.5
 NA 140.666666666667
+2. Total Weight by Species
+"Species" "Total_Weight"
+"OT" 102
+"PF" 15
+NA 422
 3. Sorted Data by Weight
 "Date.collected" "Species" "Sex" "Weight"
 "1/8" "PF" "M" 7
@@ -20,5 +25,9 @@ NA 140.666666666667
 "OT" 4
 "PF" 2
 NA 3
-7. Filtered Data for Species: 6
+6. Count Males and Females
+"Sex" "Count"
+"F" 4
+"M" 5
+7. Filtered Data for Species: 8
 "Date.collected" "Species" "Sex" "Weight"
