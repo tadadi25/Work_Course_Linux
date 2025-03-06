@@ -1,0 +1,15 @@
+Thu Mar  6 15:32:38 IST 2025 - Starting to check containers and their files...
+Thu Mar  6 15:32:38 IST 2025 - Container name: mycontainer
+Dockerfile
+New_name.csv
+SQL_table.py
+check_sqlite_and_container.sh
+container_log.txt
+mydatabase.db
+new_output.csv
+process_plants.sh
+requirements.txt
+script_log.sh
+txt.output_5
+Thu Mar  6 15:32:38 IST 2025 - Files remaining in mycontainer:
+Thu Mar  6 15:32:38 IST 2025 - Finished checking files in the container
